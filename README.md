@@ -1,14 +1,24 @@
 # CS50’s Introduction to Programming with Python
+# CS50P 2023 ![Stars](https://img.shields.io/github/stars/realTristan/CS50P?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/realTristan/CS50P?label=Watchers)
+![Untitled-2](https://user-images.githubusercontent.com/75189508/194149777-f63aa3eb-0455-4982-8b18-199bc6e6c156.png)
 [![Certificate](./static/CS50P-A4.png)](#?size=a4)
-### These are my solutions for CS50's Introduction to Programming with Python 2022.
-### Final Project: [Telegram Scraper](#)
+### These are my solutions for CS50's Introduction to Programming with Python 2023.
+### Final Project : [Telegram Scraper](#)
 <br/>
 
 ## :warning: Disclaimer:
+## :هشدار: سلب مسئولیت:
 
 ### ❗ **The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.**
+### ❗ **کدهای زیر فقط برای اهداف آموزشی هستند و برای استفاده/ارسال به عنوان راه حل های خود شما در نظر گرفته نشده اند.**
 
 ### ❗ **Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2022/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.**
+### ❗ **تقلب [صداقت آکادمیک] (https://cs50.harvard.edu/python/2022/honesty/) دوره را نقض می کند، ناگفته نماند که اگر واقعاً می خواهید برنامه نویسی یاد بگیرید، کاملاً بی معنی است.* *
+
+# Concerns
+I like to share my progress which also helps motivate me to finish the course faster. Although if any directors  of the course want me to take this down I will gladly do so, just shoot me a message via <mohammad.nazari@live.com>
+# نگرانی ها
+من دوست دارم پیشرفتم را به اشتراک بگذارم که به من انگیزه می دهد تا دوره را سریعتر به پایان برسانم. اگرچه اگر یکی از مدیران دوره بخواهد من این را حذف کنم، با کمال میل این کار را انجام خواهم داد، فقط از طریق <mohammad.nazari@live.com> پیامی به من ارسال کنید.
 
 <br/>
 
