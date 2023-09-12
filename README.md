@@ -3,7 +3,6 @@
 ### These are my solutions for CS50P Introduction to Programming with Python 2023.
 ### Final Project : [Telegram Scraper](#)
 <br/>
-
 warning & Disclaimer :
 The following codes are for educational purpose only and not intended to be used / submitted as your own solutions.
 
