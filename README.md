@@ -1,4 +1,4 @@
-# CS50P Introduction to Programming with Python 2023 ![Stars](https://img.shields.io/github/stars/nzrmohammad/CS50P?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/nzrmohammad/CS50P?label=Watchers)
+# CS50P --> Programming with Python 2023 ![Stars](https://img.shields.io/github/stars/nzrmohammad/CS50P?color=brightgreen) ![Watchers](https://img.shields.io/github/watchers/nzrmohammad/CS50P?label=Watchers)
 [![Certificate](./static/CS50P-A4.png)](#?size=a4)
 ### These are my solutions for CS50P Introduction to Programming with Python 2023.
 ### Final Project : [Telegram Scraper](#)
