@@ -12,8 +12,6 @@ Cheating violates the [Academic Honesty](https://cs50.harvard.edu/python/2023/ho
 
 ## Concerns
 I like to share my progress which also helps motivate me to finish the course faster. Although if any directors  of the course want me to take this down I will gladly do so, just shoot me a message via <mohammad.nazari@live.com>
-# نگرانی ها
-من دوست دارم پیشرفتم را به اشتراک بگذارم که به من انگیزه می دهد تا دوره را سریعتر به پایان برسانم. اگرچه اگر یکی از مدیران دوره بخواهد من این را حذف کنم، با کمال میل این کار را انجام خواهم داد، فقط از طریق <mohammad.nazari@live.com> پیامی به من ارسال کنید.
 <br/>
 
 ## Table of Contents
