@@ -14,11 +14,11 @@
 
 ## Table of Contents
 ### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2023/weeks/0/)
-- [Indoor Voice](/Week%200/Indoor/)
-- [Playback Speed](/Week%200/Playback/)
-- [Making Faces](/Week%200/Faces/)
-- [Einstein](/Week%200/Einstein/)
-- [Tip Calculator](/Week%200/Tip/)
+- [Indoor Voice](/Week%0/Indoor/)
+- [Playback Speed](/Week%0/Playback/)
+- [Making Faces](/Week%0/Faces/)
+- [Einstein](/Week%0/Einstein/)
+- [Tip Calculator](/Week%0/Tip/)
 
 ### [Week 1](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2023/weeks/1/)
 - [Deep Thought](/Week%201/Deep/)
