@@ -3,13 +3,13 @@
 ### These are my solutions for CS50P Introduction to Programming with Python 2023.
 ### Final Project : [The Ultimate Game Collection: A Trio of Classics](#)
 <br/>
-:warning: **Warning & Disclaimer**:
+:warning: Warning & Disclaimer:
 The following codes are for educational purposes only and are not intended to be used/submitted as your own solutions.
 
-:no_entry_sign: **Cheating Violates**:
+:no_entry_sign: Cheating Violates:
 The [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
 
-:email: **Concerns**:
+:email: Concerns:
 I like to share my progress, which also helps motivate me to finish the course faster. However, if any directors of the course want me to take this down, I will gladly do so. Just shoot me a message via <mohammad.nazari@live.com>.
 <br/>
 
