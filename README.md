@@ -2,16 +2,6 @@
 [![Certificate](./static/CS50P-A4.png)](#?size=a4)
 ### These are my solutions for CS50P Introduction to Programming with Python 2023.
 ### Final Project : [The Ultimate Game Collection: A Trio of Classics](#)
-<br/>
-:warning: Warning & Disclaimer:
-The following codes are for educational purposes only and are not intended to be used/submitted as your own solutions.
-
-:no_entry_sign: Cheating Violates:
-The [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
-
-:email: Concerns:
-I like to share my progress, which also helps motivate me to finish the course faster. However, if any directors of the course want me to take this down, I will gladly do so. Just shoot me a message via <mohammad.nazari@live.com>.
-<br/>
 
 ## Table of Contents
 ### [Week 0](/Week%0/) - [Functions, Variables](https://cs50.harvard.edu/python/2023/weeks/0/)
@@ -72,3 +62,16 @@ I like to share my progress, which also helps motivate me to finish the course f
 - [Seasons of Love](/Week%8/Seasons/)
 - [Cookie Jar](/Week%8/Jar/)
 - [CS50 Shirtificate](/Week%8/Shirtificate/)
+
+<div align="justify">
+
+:warning: Warning & Disclaimer:  
+The following codes are for educational purposes only and are not intended to be used/submitted as your own solutions.
+
+:no_entry_sign: Cheating Violates:  
+The [Academic Honesty](https://cs50.harvard.edu/python/2023/honesty/) of the course, not to mention it's totally pointless if you actually want to learn programming.
+
+:email: Concerns:  
+I like to share my progress, which also helps motivate me to finish the course faster. However, if any directors of the course want me to take this down, I will gladly do so. Just shoot me a message via <sanazarei79@gmail.com>.
+
+</div>
